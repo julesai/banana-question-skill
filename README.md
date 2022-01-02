@@ -1,17 +1,17 @@
 # <img src="https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/coffee.svg" card_color="#FD9E66" width="50" height="50" style="vertical-align:bottom"/> Banana Question
-Warum ist die banane krumm.
+Warum ist die Banane krumm.
 
 ## About
-Lustige antwort zur frage warum die banane krumm ist
+Lustige Antwort zur Frage warum die Banane krumm ist
 
 ## Examples
-* "Warum ist die banane krumm?"
-* "Weshalb ist die banane krumm?"
-* "Die banane"
+* "Warum ist die Banane krumm?"
+* "Weshalb ist die Banane krumm?"
+* "Die Banane"
 * "Banane"
-* "Wie ist das mit der banane?"
-* "Wie geht das mit der banane?"
-* "Erkläre mir warum die banane krumm ist"
+* "Wie ist das mit der Banane?"
+* "Wie geht das mit der Banane?"
+* "Erkläre mir warum die Banane krumm ist"
 
 ## Credits
 Julia Budde
