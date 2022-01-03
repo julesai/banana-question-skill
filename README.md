@@ -2,7 +2,7 @@
 Warum ist die Banane krumm.
 
 ## About
-Lustige Antwort zur Frage warum die Banane krumm ist
+Skill für Mycroft. Lustige Antwort zur Frage warum die Banane krumm ist
 
 ## Examples
 * "Warum ist die Banane krumm?"
